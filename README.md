@@ -22,7 +22,7 @@ Visual components and Python
 
 ## Program
 
-![WhatsApp Image 2024-04-15 at 11 18 06_9f8244c4](https://github.com/DHOESH123/Open-Jacson-Networks/assets/150319589/4b091f6e-3e02-4e0e-80dd-a00b9e34dfc2)
+![image](https://github.com/DHOESH123/Open-Jacson-Networks/assets/150319589/e8d5d3ea-3a7b-4521-94cc-19752dc56545)
 
 ## Output
 ![WhatsApp Image 2024-04-15 at 11 18 18_c4e4a05e](https://github.com/DHOESH123/Open-Jacson-Networks/assets/150319589/6ba688fb-0ef0-4c4e-ae9a-a099abb0da06)
